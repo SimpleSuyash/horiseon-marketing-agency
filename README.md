@@ -29,6 +29,5 @@ Horiseon Marketing Agency website optimization for search engines by following a
 
 ## Link to Deployed Application
 
-git@github.com:SimpleSuyash/horiseon-marketing-agency.git
-
-https://simplesuyash.github.io/horiseon-social-solution-services/
+<ul>https://github.com/SimpleSuyash/horiseon-social-solution-services.git</ul>
+<ul>https://simplesuyash.github.io/horiseon-social-solution-services/</ul>
